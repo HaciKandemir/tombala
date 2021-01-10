@@ -1,6 +1,3 @@
 {
-  "root":"public",
-  "routes": {
-    "/": "tombala.html",
-  }
+  "root":"public"
 }
